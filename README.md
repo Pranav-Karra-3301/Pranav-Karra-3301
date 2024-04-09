@@ -1,4 +1,3 @@
-![Header](mainheader.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&pause=10000&color=F79B04&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+github+%F0%9F%99%8F)](https://git.io/typing-svg)
 ---
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranav-Karra-3301&show_icons=true&theme=transparent)
