@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=008BFF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+github+%F0%9F%99%8F;I+am+%40Pranav-Karra-3301)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=45&pause=1000&color=008BFF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+github+%F0%9F%99%8F;I+am+%40Pranav-Karra-3301)](https://git.io/typing-svg)
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranav-Karra-3301&show_icons=true&theme=dark)
 ---
