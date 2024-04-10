@@ -21,7 +21,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=Pranav-Karra-3301&theme=transparent&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&card_width=100" alt="GitHub Stats" />
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Karra-3301&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=false& alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Karra-3301&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=false" />
 </div>
 
 ---
