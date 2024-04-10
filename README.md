@@ -21,10 +21,10 @@
 [![Pranav-Karra-3301's Stack Overflow | Stats](https://stats.quine.sh/Pranav-Karra-3301/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Pranav-Karra-3301)
 <div style="display: flex;">
     <a href="https://stats.quine.sh/Pranav-Karra-3301/topics-over-time?theme=dark">
-        <img src="https://stats.quine.sh/Pranav-Karra-3301/topics-over-time?theme=dark&width=400" alt="Topics Over Time" />
+        <img src="https://stats.quine.sh/Pranav-Karra-3301/topics-over-time?theme=dark&width=200" alt="Topics Over Time" />
     </a>
     <a href="https://stats.quine.sh/Pranav-Karra-3301/languages-over-time?theme=dark">
-        <img src="https://stats.quine.sh/Pranav-Karra-3301/languages-over-time?theme=dark&width=400" alt="Languages Over Time" />
+        <img src="https://stats.quine.sh/Pranav-Karra-3301/languages-over-time?theme=dark&width=200" alt="Languages Over Time" />
     </a>
 </div>
 
