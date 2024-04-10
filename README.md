@@ -5,6 +5,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-pranavkarra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranav-karra-09477228b)](https://www.linkedin.com/in/pranav-karra-09477228b)
 [![Instagram Badge](https://img.shields.io/badge/-pranav.karra-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranav.karra/)](https://instagram.com/pranav.karra)
 ---
+#### Technologies
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+---
 
 <div style="display: flex;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
