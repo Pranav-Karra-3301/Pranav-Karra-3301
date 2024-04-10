@@ -1,7 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&duration=3000&pause=70&color=00CDBA&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=130&lines=%F0%9F%91%8B+Hello!+My+name+is+Pranav+Karra;%F0%9F%93%8DWelcome+to+my+Github+profile!)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pranav-Karra-3301.visitor-badge)
-
+![editor](https://img.shields.io/badge/Editor-VS_Code-blue)
+[![Linkedin Badge](https://img.shields.io/badge/-pranavkarra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranav-karra-09477228b)](https://www.linkedin.com/in/pranav-karra-09477228b)
+[![Instagram Badge](https://img.shields.io/badge/-pranav.karra-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranav.karra/)](https://instagram.com/pranav.karra)
 ---
 
 <div style="display: flex;">
