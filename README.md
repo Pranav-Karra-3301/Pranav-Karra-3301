@@ -5,3 +5,5 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31upcnx4lq5jkxajpswotik5wnuu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31upcnx4lq5jkxajpswotik5wnuu&redirect=true)
 ---
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=merko&animation=default&layout=default&font=default&fontColor=white&bgColor=black)
+---
+![Metrics](/github-metrics.svg)
