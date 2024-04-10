@@ -1,4 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&duration=3000&pause=70&color=00CDBA&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=130&lines=%F0%9F%91%8B+Hello!+My+name+is+Pranav+Karra;%F0%9F%93%8DWelcome+to+my+Github+profile!)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pranav-Karra-3301.visitor-badge)
+
 ---
 
 <div style="display: flex;">
@@ -16,8 +19,15 @@
 
 [![Pranav-Karra-3301's GitHub | Stats](https://stats.quine.sh/Pranav-Karra-3301/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Pranav-Karra-3301)
 [![Pranav-Karra-3301's Stack Overflow | Stats](https://stats.quine.sh/Pranav-Karra-3301/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Pranav-Karra-3301)
-[![Pranav-Karra-3301's GitHub | Topics Over Time](https://stats.quine.sh/Pranav-Karra-3301/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Pranav-Karra-3301)
-[![Pranav-Karra-3301's GitHub | Languages Over Time](https://stats.quine.sh/Pranav-Karra-3301/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Pranav-Karra-3301)
+<div style="display: flex;">
+    <a href="https://stats.quine.sh/Pranav-Karra-3301/topics-over-time?theme=dark">
+        <img src="https://stats.quine.sh/Pranav-Karra-3301/topics-over-time?theme=dark&width=400" alt="Topics Over Time" />
+    </a>
+    <a href="https://stats.quine.sh/Pranav-Karra-3301/languages-over-time?theme=dark">
+        <img src="https://stats.quine.sh/Pranav-Karra-3301/languages-over-time?theme=dark&width=400" alt="Languages Over Time" />
+    </a>
+</div>
+
 ---
 ![Metrics](/github-metrics.svg)
 
