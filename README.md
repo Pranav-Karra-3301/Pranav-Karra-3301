@@ -2,7 +2,7 @@
 ---
 
 [![](https://github-readme-stats.vercel.app/api?username=Pranav-Karra-3301&theme=transparent&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&hide_title=false&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=100)](https://github.com/anuraghazra/github-readme-stats)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Karra-3301&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=false&icon_color=#00CCFF&title_color=#00CCFF)](https://github.com/Pranav-Karra-3301/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Karra-3301&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=false&icon_color=#00CCFF&title_color=#00CCFF)]
 ![Pranav-Karra-3301's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Karra-3301&theme=transparent&hide_border=false)                                            
 
 ---
