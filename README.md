@@ -1,10 +1,13 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&duration=3000&pause=70&color=888888&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=130&lines=%F0%9F%91%8B+Hello!+My+name+is+Pranav+Karra;%F0%9F%93%8DWelcome+to+my+Github+profile!)
 
+<p align="center">
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pranav-Karra-3301.visitor-badge)
+</p>
 
 #### Reach Me
 [![Linkedin Badge](https://img.shields.io/badge/-pranavkarra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranav-karra-09477228b)](https://www.linkedin.com/in/pranav-karra-09477228b)
 [![Instagram Badge](https://img.shields.io/badge/-pranav.karra-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranav.karra/)](https://instagram.com/pranav.karra)
+[![Gmail Badge](https://img.shields.io/badge/-pranavkarra001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranavkarra001@gmail.com)](mailto:pranavkarra001@gmail.com)
 
 ---
 #### Technologies
@@ -16,9 +19,21 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-teal?logo=arduino)
+![ROS](https://img.shields.io/badge/-ROS-navy?logo=ROS)
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--4241--9700-green?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-4241-9700)
+[![16Personalites](https://img.shields.io/badge/-16Personalities-olive?link=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2F657a2e4a73f3e)](https://www.16personalities.com/profiles/657a2e4a73f3e)
+
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Notes](https://img.shields.io/badge/Notes-Obsidian-purple?logo=Obsidian)](https://obsidian.md)
+[![spotify](https://img.shields.io/badge/Music-Spotify-neongreen?logo=Spotify&link=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2F657a2e4a73f3e)](https://open.spotify.com/user/31upcnx4lq5jkxajpswotik5wnuu)
+[![letterboxd](https://img.shields.io/badge/-letterboxd-orange?logo=Letterboxd&link=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2F657a2e4a73f3e)](https://letterboxd.com/pranavkarra/)
+
+[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
+[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
 
 ---
 #### Stats
