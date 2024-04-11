@@ -19,7 +19,7 @@
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ---
-
+#### Statistcs
 <div style="display: flex;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=Pranav-Karra-3301&theme=transparent&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&card_width=100" alt="GitHub Stats" />
@@ -45,11 +45,10 @@
 </div>
 
 ---
+#### Github Metrics
 ![Metrics](/github-metrics.svg)
 
 ---
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31upcnx4lq5jkxajpswotik5wnuu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31upcnx4lq5jkxajpswotik5wnuu&redirect=true)
 
 ---
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pranav-Karra-3301-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
