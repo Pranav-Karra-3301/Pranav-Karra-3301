@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&duration=3000&pause=70&color=888888&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=130&lines=%F0%9F%91%8B+Hello!+My+name+is+Pranav+Karra;%F0%9F%93%8DWelcome+to+my+Github+profile!)
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=30&duration=3000&pause=70&color=888888&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=130&lines=%F0%9F%91%8B+Hello!+My+name+is+Pranav+Karra;%F0%9F%93%8DWelcome+to+my+Github+profile!" alt="Typing SVG" />
+</p>
 
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Pranav-Karra-3301.visitor-badge" alt="visitors" />
@@ -37,20 +39,27 @@
 
 ---
 #### Stats
-<div style="display: flex;">
+<div style="display: flex; justify-content: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=Pranav-Karra-3301&theme=transparent&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&card_width=100" alt="GitHub Stats" />
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Karra-3301&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=false" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Karra-3301&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=false" />
+    </a>
 </div>
 
 ---
 
-![Pranav-Karra-3301's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Karra-3301&theme=transparent&hide_border=false)
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Karra-3301&theme=transparent&hide_border=false" alt="Pranav-Karra-3301's Streak" />
+</p>
+
 
 ---
 #### Github Metrics
-![Metrics](/github-metrics.svg)
+<p align="center">
+    <img src="/github-metrics.svg" alt="Metrics" />
+</p>
 
 ---
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31upcnx4lq5jkxajpswotik5wnuu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31upcnx4lq5jkxajpswotik5wnuu&redirect=true)
