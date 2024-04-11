@@ -63,10 +63,11 @@
 
 ---
 
-<p align="center">
-    <img src = "https://spotify-github-profile.vercel.app/api/view?uid=31upcnx4lq5jkxajpswotik5wnuu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=26e51f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31upcnx4lq5jkxajpswotik5wnuu&redirect=true" 
-    alt = "Spotify Widget" />
-</p>
+<div align="center">
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=31upcnx4lq5jkxajpswotik5wnuu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=26e51f&bar_color_cover=true">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31upcnx4lq5jkxajpswotik5wnuu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=26e51f&bar_color_cover=true" alt="Spotify Profile" />
+    </a>
+</div>
 
 ---
 ##### Other Widgets
