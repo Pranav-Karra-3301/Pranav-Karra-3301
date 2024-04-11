@@ -6,10 +6,14 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Pranav-Karra-3301.visitor-badge" alt="visitors" />
 </p>
 
+<div style="text-align: center;">
+
 #### Reach Me
 [![Linkedin Badge](https://img.shields.io/badge/-pranavkarra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranav-karra-09477228b)](https://www.linkedin.com/in/pranav-karra-09477228b)
 [![Instagram Badge](https://img.shields.io/badge/-pranav.karra-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranav.karra/)](https://instagram.com/pranav.karra)
 [![Gmail Badge](https://img.shields.io/badge/-pranavkarra001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranavkarra001@gmail.com)](mailto:pranavkarra001@gmail.com)
+
+</div>
 
 ---
 #### Technologies
@@ -38,21 +42,26 @@
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
 
 ---
-#### Stats
+
+
+<div style="display: flex; justify-content: center;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Karra-3301&theme=transparent&hide_border=false" alt="Pranav-Karra-3301's Streak" />
+    </a>
+</div>
+
 <div style="display: flex; justify-content: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=Pranav-Karra-3301&theme=transparent&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&card_width=100" alt="GitHub Stats" />
     </a>
+</div>
+
+
+<div style="display: flex; justify-content: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Karra-3301&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=false" />
     </a>
 </div>
-
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Karra-3301&theme=transparent&hide_border=false" alt="Pranav-Karra-3301's Streak" />
-</p>
-
 
 ---
 #### Github Metrics
