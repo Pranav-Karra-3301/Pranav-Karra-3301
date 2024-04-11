@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&duration=3000&pause=70&color=888888&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=130&lines=%F0%9F%91%8B+Hello!+My+name+is+Pranav+Karra;%F0%9F%93%8DWelcome+to+my+Github+profile!)
 
 <p align="center">
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pranav-Karra-3301.visitor-badge)
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Pranav-Karra-3301.visitor-badge" alt="visitors" />
 </p>
 
 #### Reach Me
