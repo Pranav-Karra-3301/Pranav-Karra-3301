@@ -6,13 +6,18 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Pranav-Karra-3301.visitor-badge" alt="visitors" />
 </p>
 
-<div style="text-align: center;">
 
-#### Reach Me
-[![Linkedin Badge](https://img.shields.io/badge/-pranavkarra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranav-karra-09477228b)](https://www.linkedin.com/in/pranav-karra-09477228b)
-[![Instagram Badge](https://img.shields.io/badge/-pranav.karra-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranav.karra/)](https://instagram.com/pranav.karra)
-[![Gmail Badge](https://img.shields.io/badge/-pranavkarra001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranavkarra001@gmail.com)](mailto:pranavkarra001@gmail.com)
-
+<div align="center">
+    <h4>Reach Me</h4>
+    <a href="https://www.linkedin.com/in/pranav-karra-09477228b">
+        <img src="https://img.shields.io/badge/-pranavkarra-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://instagram.com/pranav.karra">
+        <img src="https://img.shields.io/badge/-pranav.karra-purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:pranavkarra001@gmail.com">
+        <img src="https://img.shields.io/badge/-pranavkarra001%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
+    </a>
 </div>
 
 ---
