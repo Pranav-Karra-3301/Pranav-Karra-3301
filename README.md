@@ -48,7 +48,6 @@
     </a>
 </div>
 
----
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Karra-3301&theme=transparent&hide_border=false" alt="Pranav-Karra-3301's Streak" />
