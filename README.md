@@ -8,7 +8,7 @@
 
 
 <div align="center">
-    <h4>Reach Me</h4>
+    <h4>📩 Reach Me</h4>
     <a href="https://www.linkedin.com/in/pranav-karra-09477228b">
         <img src="https://img.shields.io/badge/-pranavkarra-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -24,9 +24,23 @@
 </div>
 
 ---
-#### Technologies
+
+<details>
+    <summary>🤨📜 ABOUT ME</summary>
+
+    - I'm passionate about machine learning and always on the lookout to expand my knowledge in the field.
+    - Currently pursuing a degree in computer science at Penn State University.
+    - I'm also part of the Computer Vision team for a club that builds robots for DJI's Robomaster University Series competitions. 
+    - I'm excited about applying my skills in practical, innovative projects.
+</details>
+
+---
+#### 📟 What I Use
+![Main Badge](https://img.shields.io/badge/Main-Jupyter_Notebook-orange?logo=Jupyter)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-darkblue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -65,14 +79,9 @@
 </div>
 
 
-<div style="display: flex; justify-content: center;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Karra-3301&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=false" />
-    </a>
-</div>
 
 ---
-#### Github Metrics
+#### 📈 Github Metrics
 <p align="center">
     <img src="/github-metrics.svg" alt="Metrics" />
 </p>
