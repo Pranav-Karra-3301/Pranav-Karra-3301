@@ -18,6 +18,9 @@
     <a href="mailto:pranavkarra001@gmail.com">
         <img src="https://img.shields.io/badge/-pranavkarra001%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
     </a>
+    <a href="https://twitter.com/pranav__karra">
+        <img src="https://img.shields.io/badge/-pranav__karra-blue?logo=Twitter" alt="Twitter" />
+    </a>
 </div>
 
 ---
