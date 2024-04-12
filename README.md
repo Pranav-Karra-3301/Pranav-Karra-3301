@@ -64,6 +64,8 @@
 ![browser](https://img.shields.io/badge/Browser-Vivaldi-red?logo=vivaldi&logoColor=white&labelColor=grey)
 [![spotify](https://img.shields.io/badge/Music-Spotify-neongreen?logo=Spotify&link=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2F657a2e4a73f3e&labelColor=grey)](https://open.spotify.com/user/31upcnx4lq5jkxajpswotik5wnuu)
 [![letterboxd](https://img.shields.io/badge/-letterboxd-orange?logo=Letterboxd&link=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2F657a2e4a73f3e)](https://letterboxd.com/pranavkarra/)
+![Static Badge](https://img.shields.io/badge/Passwords-Bitwarden-blue?logo=bitwarden)
+
 
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white&labelColor=grey)](https://en.wikipedia.org/wiki/Homo_sapiens)
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white&labelColor=grey)](https://en.wikipedia.org/wiki/Life)
