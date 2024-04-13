@@ -25,14 +25,10 @@
 
 ---
 
-<details>
-    <summary>🤨📜 ABOUT ME</summary>
-
-    - I'm passionate about machine learning and always on the lookout to expand my knowledge in the field.
-    - Currently pursuing a degree in computer science at Penn State University.
-    - I'm also part of the Computer Vision team for a club that builds robots for DJI's Robomaster University Series competitions. 
-    - I'm excited about applying my skills in practical, innovative projects.
-</details>
+- I'm passionate about machine learning and always on the lookout to expand my knowledge in the field.
+- Currently pursuing a degree in computer science at Penn State University.
+- I'm also part of the Computer Vision team for a club that builds robots for DJI's Robomaster University Series competitions. 
+- I'm excited about applying my skills in practical, innovative projects.
 
 ---
 #### 📟 What I Use
