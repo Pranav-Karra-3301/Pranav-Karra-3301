@@ -25,10 +25,10 @@
 
 ---
 
-- I'm passionate about machine learning and always on the lookout to expand my knowledge in the field.
-- Currently pursuing a degree in computer science at Penn State University.
-- I'm also part of the Computer Vision team for a club that builds robots for DJI's Robomaster University Series competitions. 
-- I'm excited about applying my skills in practical, innovative projects.
+- Machine Learning 👍
+- Computer Science at Pennsylvania State University ✅
+- Computer Vision Team @ RoboX (DJI Robomaster University Series Championship) 🤖
+- Currently working on creating fundamental ML Algorithms just using numpy and math. 🤓
 
 ---
 #### 📟 What I Use
