@@ -67,10 +67,15 @@
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white&labelColor=grey)](https://en.wikipedia.org/wiki/Life)
 
 ---
-## Badges & Certifications
+<div align="center">
+    <h2>Badges & Certifications</h2>
+</div>
 
-
-<a href="https://openbadgefactory.com/v1/assertion/9b1bdbc990c6d7a15f5aa3f01b54b58cd25263e4"><img src="alcf_certification.png" width="100" height="100"></a>
+<div align="center">
+    <a href="https://openbadgefactory.com/v1/assertion/9b1bdbc990c6d7a15f5aa3f01b54b58cd25263e4">
+        <img src="alcf_certification.png" width="100" height="100">
+    </a>
+</div>
 
 ---
 
