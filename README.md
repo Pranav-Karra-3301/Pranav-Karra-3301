@@ -69,7 +69,7 @@
 ---
 ## Badges & Certifications
 
-[![alcf](alcf_certificatiion.png)(https://openbadgefactory.com/v1/assertion/9b1bdbc990c6d7a15f5aa3f01b54b58cd25263e4)]
+[![alcf](alcf_certification.png)(https://openbadgefactory.com/v1/assertion/9b1bdbc990c6d7a15f5aa3f01b54b58cd25263e4)]
 
 ---
 
