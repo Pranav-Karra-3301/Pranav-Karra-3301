@@ -75,13 +75,13 @@
 ---
 
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Karra-3301&theme=transparent&hide_border=false" alt="Pranav-Karra-3301's Streak" />
     </a>
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=Pranav-Karra-3301&theme=transparent&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&card_width=100" alt="GitHub Stats" />
     </a>
