@@ -90,10 +90,10 @@
 
 
 ---
-#### 📈 Github Metrics
-<p align="center">
+<div align="center">
+    <h3>📈 Github Metrics</h3>
     <img src="/github-metrics.svg" alt="Metrics" />
-</p>
+</div>
 
 ---
 
