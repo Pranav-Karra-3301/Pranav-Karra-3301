@@ -27,6 +27,7 @@
 
 ---
 #### 📟 What I Use
+$$Primary$$
 ![Main Badge](https://img.shields.io/badge/Main-Jupyter_Notebook-orange?logo=Jupyter&labelColor=black)
 ![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=Python)
 ![latex](https://img.shields.io/badge/-LaTex-teal?logo=latex&logoColor=white)
@@ -34,6 +35,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-grey?logo=figma)
 ![md](https://img.shields.io/badge/-markdown-blue?logo=markdown&logoColor=white)
 
+$$Worked With$$
 ![CSS](https://img.shields.io/badge/-CSS3-darkblue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -45,9 +47,11 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-teal?logo=arduino)
 ![ROS](https://img.shields.io/badge/-ROS-navy?logo=ROS)
 
+$$Profiles$$
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--4241--9700-green?style=flat-square&logo=orcid&logoColor=white&labelColor=grey)](https://orcid.org/0009-0009-4241-9700)
 [![16Personalites](https://img.shields.io/badge/-16Personalities-olive?link=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2F657a2e4a73f3e)](https://www.16personalities.com/profiles/657a2e4a73f3e)
 
+$$Setup$$
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white&labelColor=grey)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&labelColor=grey)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=grey)](https://code.visualstudio.com/)
@@ -57,7 +61,7 @@
 [![letterboxd](https://img.shields.io/badge/-letterboxd-orange?logo=Letterboxd&link=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2F657a2e4a73f3e)](https://letterboxd.com/pranavkarra/)
 ![Static Badge](https://img.shields.io/badge/Passwords-Bitwarden-blue?logo=bitwarden)
 
-
+$$Me$$
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white&labelColor=grey)](https://en.wikipedia.org/wiki/Homo_sapiens)
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white&labelColor=grey)](https://en.wikipedia.org/wiki/Life)
 
