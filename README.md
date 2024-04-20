@@ -79,6 +79,17 @@
 
 ---
 
+<div align="center">
+    <h2>Organizations</h2>
+</div>
+
+<div align="center">
+    <a href="https://github.com/PennState-RoboX">
+        <img src="robox_logo.png" width="100" height="100">
+    </a>
+</div>
+
+---
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
