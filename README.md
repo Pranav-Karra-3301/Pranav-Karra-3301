@@ -32,14 +32,15 @@ Primary
 ![Main Badge](https://img.shields.io/badge/Main-Jupyter_Notebook-orange?logo=Jupyter&labelColor=black)
 ![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=Python)
 ![latex](https://img.shields.io/badge/-LaTex-teal?logo=latex&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-grey?logo=figma)
 ![md](https://img.shields.io/badge/-markdown-blue?logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 Worked With
 
 ![CSS](https://img.shields.io/badge/-CSS3-darkblue?logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
