@@ -31,6 +31,7 @@ Primary
 
 ![Main Badge](https://img.shields.io/badge/Main-Jupyter_Notebook-orange?logo=Jupyter&labelColor=black)
 ![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=Python)
+![ROS](https://img.shields.io/badge/-ROS-navy?logo=ROS)
 ![latex](https://img.shields.io/badge/-LaTex-teal?logo=latex&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-grey?logo=figma)
 ![md](https://img.shields.io/badge/-markdown-blue?logo=markdown&logoColor=white)
@@ -48,7 +49,6 @@ Worked With
 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-teal?logo=arduino)
-![ROS](https://img.shields.io/badge/-ROS-navy?logo=ROS)
 
 Profiles
 
