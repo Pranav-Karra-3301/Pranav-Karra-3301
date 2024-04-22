@@ -20,7 +20,7 @@
 
 ---
 
-- Machine Learning 👍
+- Learning Machine Learning 👍
 - Computer Science at Pennsylvania State University ✅
 - Computer Vision Team @ RoboX (DJI Robomaster University Series Championship) 🤖
 - Currently working on creating fundamental ML Algorithms just using numpy and math. 🤓
