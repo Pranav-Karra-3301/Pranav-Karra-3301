@@ -42,8 +42,8 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@ Computer Science @PennState</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1792 Commits
+                            1795 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,7 +191,7 @@ Computer Science @PennState</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    8.82m added, 435k removed
+                                    5.02m added, 234k removed
                                 </div>
                             </section>
                             <section>
@@ -239,14 +239,14 @@ Computer Science @PennState</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="347.923383442662" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="347.923383442662" y="0" width="103.42416324629636" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="451.34754668895835" y="0" width="3.438773002784162" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.7863196917425" y="0" width="3.269749430745519" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="458.056069122488" y="0" width="0.9745172996120365" height="8" fill="#fedf5b"/>
-                    <rect mask="url(#languages-bar)" x="459.0305864221" y="0" width="0.5438480108732043" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.57443443297325" y="0" width="0.26912799829138623" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="459.8435624312646" y="0" width="0.15643756873537998" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="347.906283948878" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="347.906283948878" y="0" width="103.41908022825072" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="451.3253641771288" y="0" width="3.4403931497005216" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="454.76575732682926" y="0" width="3.2695887313998386" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="458.03534605822915" y="0" width="0.974469404721092" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="459.0098154629502" y="0" width="0.5441367348486412" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.5539521977988" y="0" width="0.2691147713777815" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.82306696917664" y="0" width="0.17693303082338607" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -361,7 +361,7 @@ Computer Science @PennState</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~7.29
+                            Average per day at ~7.31
                         </div>
                     </section>
                 </div>
@@ -1327,10 +1327,10 @@ Computer Science @PennState</div>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.774193548387097 0,1.7741935483870968 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7741935483870968 1.7,2.774193548387097 z"/>
                             </g>
-                            <g transform="translate(-6.8, 8.258064516129032)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.741935483870968 0,2.741935483870968 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.741935483870968 1.7,3.741935483870968 z"/>
+                            <g transform="translate(-6.8, 7.870967741935484)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.129032258064516 0,3.129032258064516 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.129032258064516 1.7,4.129032258064516 z"/>
                             </g>
                         </g>
                     </g>
@@ -2344,7 +2344,7 @@ Computer Science @PennState</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Mar 2025, 14:13:56 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Mar 2025, 15:08:25 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
