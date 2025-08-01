@@ -1,5 +1,7 @@
 https://pranavkarra.me/ - more about me
 
+---
+
 i mainly work on ai alignment research and experiment with different methods in ml. most of those repo's are private for now. 
 
 but you can check out what ive built (mostly vibecoded for my own use) here:
@@ -16,7 +18,9 @@ im also working on a self-hosted smart journal (coming soon)
 
 and a ios app - just experimenting with swift
 
+---
 
 
 to get in contact with me, either email me at pranavkarra001 at gmail dot com (for professional stuff)
+
 or add me on discord @pranavkarra001 (recommended)
