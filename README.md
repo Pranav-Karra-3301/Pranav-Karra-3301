@@ -14,6 +14,8 @@ https://lbxd.pranavkarra.me - cli tool built in rust to view letterboxd data
 
 https://ascii.pranavkarra.me - colored ascii art thats suprisingly detailed
 
+https://ov.pranavkarra.me - Omnivore - Universal Scraper and Data Extractor in RUST
+
 im also working on a self-hosted smart journal (coming soon)
 
 and a ios app - just experimenting with swift
