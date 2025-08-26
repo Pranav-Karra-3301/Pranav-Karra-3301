@@ -1,5 +1,7 @@
 https://pranavkarra.me/ - more about me
 
+https://summer25.pranavkarra.me/  - a scrapbook of my summer break
+
 ---
 
 i mainly work on ai alignment research and experiment with different methods in ml. most of those repo's are private for now. 
@@ -14,11 +16,12 @@ https://lbxd.pranavkarra.me - cli tool built in rust to view letterboxd data
 
 https://ascii.pranavkarra.me - colored ascii art thats suprisingly detailed
 
+https://curious.pranavkarra.me - something to think about everyday
+
 https://ov.pranavkarra.me - Omnivore - Universal Scraper and Data Extractor in RUST
 
-im also working on a self-hosted smart journal (coming soon)
+im also working on a self-hosted smart journal, if youre interested reach out
 
-and a ios app - just experimenting with swift
 
 ---
 
