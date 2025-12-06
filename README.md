@@ -1,5 +1,11 @@
 https://pranavkarra.me/ - more about me
 
+currently engineering @ [Beltic](https://beltic.com)
+
+creator of [@belticlabs/kya](https://www.npmjs.com/package/@belticlabs/kya) package, [beltic-cli](https://github.com/belticlabs/beltic-cli), [beltic specifications](https://github.com/belticlabs/beltic-spec)
+
+
+
 https://summer25.pranavkarra.me/  - a scrapbook of my summer break
 
 ---
