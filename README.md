@@ -1,5 +1,7 @@
 https://pranavkarra.me/ - more about me
 
+---
+
 currently engineering @ [Beltic](https://beltic.com)
 
 creator of [@belticlabs/kya](https://www.npmjs.com/package/@belticlabs/kya) package, [beltic-cli](https://github.com/belticlabs/beltic-cli), [beltic specifications](https://github.com/belticlabs/beltic-spec)
@@ -7,10 +9,11 @@ creator of [@belticlabs/kya](https://www.npmjs.com/package/@belticlabs/kya) pack
 
 
 https://summer25.pranavkarra.me/  - a scrapbook of my summer break
+https://tuck.sh/ - the best way to backup dotfiles
 
 ---
 
-i mainly work on ai alignment research and experiment with different methods in ml. most of those repo's are private for now. 
+i also work on ai alignment research and experiment with different methods in ml. 
 
 but you can check out what ive built (mostly vibecoded for my own use) here:
 
@@ -28,12 +31,10 @@ https://psuleases.com - site built for psu students to find re-lets
 
 https://drafts.page - my attempt at building a smart notepad (no longer supported) but im proud of the ui
 
-im also working on a self-hosted smart journal, if youre interested reach out
-
 
 ---
 
 
-to get in contact with me, either email me at pranavkarra001 at gmail dot com (for professional stuff)
+to get in contact with me, either email me at pranavkarra001 at gmail dot com 
 
-or add me on discord @pranavkarra001 (recommended)
+or add me on twitter @pranavkarra (recommended)
