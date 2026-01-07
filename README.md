@@ -9,6 +9,7 @@ creator of [@belticlabs/kya](https://www.npmjs.com/package/@belticlabs/kya) pack
 
 
 https://summer25.pranavkarra.me/  - a scrapbook of my summer break
+
 https://tuck.sh/ - the best way to backup dotfiles
 
 ---
